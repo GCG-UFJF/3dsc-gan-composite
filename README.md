@@ -1,6 +1,6 @@
 # 3DSC-GAN with Composite Loss Function
 
-TensorFlow implementation for learned compression of 3-D poststack seismic data using Composite Loss Function. The method was developed by Ribeiro et. al. in Composite Loss Function for 3-D Poststack Seismic Data Compression.
+TensorFlow implementation for learned compression of 3-D poststack seismic data with Composite Loss Function. The method was developed by Ribeiro et. al. in Composite Loss Function for 3-D Poststack Seismic Data Compression.
 
 ![Comparison of a reconstructed 2-D slice (300 × 900 pixels) from Poseidon3D volume compressed with extremely low target bit rate (0.1 bpv)](images/reconstruction.png)
 
